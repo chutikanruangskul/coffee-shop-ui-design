@@ -31,24 +31,33 @@ Exclusive Manager / Owner Capabilities:
 
 🎨 UI Specification & Design System
 1. Color Palette
-   Primary Background: #FDE2C8 (Soft Cream) — Designed to minimize eye strain and enhance component visibility during daily operations.
-   Header & Sidebar: #64483C (Dark Brown) — Provides clear structural contrast and highlights main navigation areas.
-   Selection & Primary Buttons: #FFBD60 (Soft Orange) — Accents primary actions and call-to-action (CTA) elements.
-   Typography: #64483C (Dark Brown) on light backgrounds — Ensures optimal legibility and high contrast.
-   Container & Cards: #96704B (Light Brown) — Establishes depth and separates content blocks effectively.
-   Icons & Graphics: #96704B / #FFD5B — Enhances visual hierarchy and aesthetic appeal.
+   -Primary Background: #FDE2C8 (Soft Cream) — Designed to minimize eye strain and enhance component visibility during daily operations.
 
-2. Typography & Layout Specifications (Login Screen Example)
-   Font Family: TH Sarabun New
-   Title Bar:
+   -Header & Sidebar: #64483C (Dark Brown) — Provides clear structural contrast and highlights main navigation areas.
+
+   -Selection & Primary Buttons: #FFBD60 (Soft Orange) — Accents primary actions and call-to-action (CTA) elements.
+
+   -Typography: #64483C (Dark Brown) on light backgrounds — Ensures optimal legibility and high contrast.
+
+   -Container & Cards: #96704B (Light Brown) — Establishes depth and separates content blocks effectively.
+
+   -Icons & Graphics: #96704B / #FFD5B — Enhances visual hierarchy and aesthetic appeal.
+
+3. Typography & Layout Specifications (Login Screen Example)
+   • Font Family: TH Sarabun New
+
+   • Title Bar:
        Background Color: #64483C | Font Color: #FFFFFF | Font Size: 36px Regular
        Dimension: Width 1440px | Height 52px
-   Login Frame/Panel:
+
+   • Login Frame/Panel:
        Background Color: #FDE2C8 | Border Radius: 30px | Stroke: #C19A6B
-   Input Fields (Username / Password):
+
+   • Input Fields (Username / Password):
        Background Color: #96704B (Fill 50%) | Font Color: #FFFFFF | Font Size: 24px Regular
        Dimension: Width 426px | Height 80px
-   Primary Button (Login):
+
+   • Primary Button (Login):
        Background Color: #64483C | Font Color: #FFFFFF | Font Size: 36px | Border Radius: 20px
        Dimension: Width 426px | Height 70px
 
