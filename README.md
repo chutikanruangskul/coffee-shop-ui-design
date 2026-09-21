@@ -31,6 +31,7 @@ Exclusive Manager / Owner Capabilities:
 
 🎨 UI Specification & Design System
 1. Color Palette
+
    -Primary Background: #FDE2C8 (Soft Cream) — Designed to minimize eye strain and enhance component visibility during daily operations.
 
    -Header & Sidebar: #64483C (Dark Brown) — Provides clear structural contrast and highlights main navigation areas.
@@ -44,6 +45,7 @@ Exclusive Manager / Owner Capabilities:
    -Icons & Graphics: #96704B / #FFD5B — Enhances visual hierarchy and aesthetic appeal.
 
 3. Typography & Layout Specifications (Login Screen Example)
+
    • Font Family: TH Sarabun New
 
    • Title Bar:
