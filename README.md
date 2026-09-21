@@ -1,12 +1,10 @@
 # ☕ Coffee Shop UI/UX Wireframe Design
 
-ตัวอย่างการออกแบบ Wireframe สำหรับระบบร้านกาแฟ (Coffee Shop Application / Website) 
+An example of a Wireframe design for a Coffee Shop Application / Website system.
 
 ## 🔗 Figma Project
-สามารถเข้าชมงานออกแบบตัวเต็ม ได้ที่:
-👉 https://www.figma.com/design/EFPzR1BnAdRIn30cggw5SN/Wireframe?node-id=0-1&t=5f1r4wCbdLUgdHPE-1
-
----
+You can view the full design and interactive prototype here:
+👉 [Click here to view on Figma](https://www.figma.com/design/EFPzR1BnAdRIn30cggw5SN/Wireframe?node-id=0-1&t=5f1r4wCbdLUgdHPE-1)
 
 ## 📐 Wireframe Overview & Phases
 This section outlines the development phases and the implementation of Role-Based Access Control (RBAC).
